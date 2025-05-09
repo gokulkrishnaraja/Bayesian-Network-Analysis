@@ -16,9 +16,13 @@ BDgraph Analysis Report
 - Number of nodes: 5 
 - Number of samples: 1000 
 - Number of iterations: 
-- Burn-in: 
+
+<img width="370" alt="Selected_graph" src="https://github.com/user-attachments/assets/a36af8ca-b1aa-44c8-8b85-18ed10c19d20" />
+
+<img width="319" alt="Post_probs_of_edges" src="https://github.com/user-attachments/assets/7e099bf1-3442-4831-aa08-9681d8431acf" />
 
 ### Network Metrics:
+
 - Density: 0.450 
 - Average Degree: 3.600 
 - Clustering Coefficient: 0.875 
